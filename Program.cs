@@ -10,6 +10,9 @@ namespace test
     {
         static void Main(string[] args)
         {
+		int a = 11;
+		int b = 22;
+		a + b;
         }
     }
 }
