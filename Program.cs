@@ -9,9 +9,9 @@ namespace test
     class Program
     {
         static void Main(string[] args)
-        {
-		int a = 11;
-		int b = 22;
+        {	
+		int a = 10;
+		int b = 20;
 		a + b;
         }
     }
